@@ -1,4 +1,4 @@
-from time import sleep
+from time import sleep 
 peso = float(input('Qual é seu peso? (Kg)'))
 altura = float(input('Qual é a sua altura? (m)'))
 imc = peso / (altura ** 2)
